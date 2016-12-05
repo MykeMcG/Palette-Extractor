@@ -1,0 +1,9 @@
+c:\users\mike\documents\visual studio 2013\Projects\PaletteExtractor\PaletteExtractor\bin\Debug\PaletteExtractor.exe.config
+c:\users\mike\documents\visual studio 2013\Projects\PaletteExtractor\PaletteExtractor\bin\Debug\PaletteExtractor.exe
+c:\users\mike\documents\visual studio 2013\Projects\PaletteExtractor\PaletteExtractor\bin\Debug\PaletteExtractor.pdb
+c:\users\mike\documents\visual studio 2013\Projects\PaletteExtractor\PaletteExtractor\obj\Debug\PaletteExtractor.csprojResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2013\Projects\PaletteExtractor\PaletteExtractor\obj\Debug\PaletteExtractor.Form1.resources
+c:\users\mike\documents\visual studio 2013\Projects\PaletteExtractor\PaletteExtractor\obj\Debug\PaletteExtractor.Properties.Resources.resources
+c:\users\mike\documents\visual studio 2013\Projects\PaletteExtractor\PaletteExtractor\obj\Debug\PaletteExtractor.csproj.GenerateResource.Cache
+c:\users\mike\documents\visual studio 2013\Projects\PaletteExtractor\PaletteExtractor\obj\Debug\PaletteExtractor.exe
+c:\users\mike\documents\visual studio 2013\Projects\PaletteExtractor\PaletteExtractor\obj\Debug\PaletteExtractor.pdb
