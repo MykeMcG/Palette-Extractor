@@ -1,0 +1,22 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:PaletteExtractor.UI"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+  <!--MainWindow-->
+  <system:String x:Key="strMnuFile">File</system:String>
+  <system:String x:Key="strMnuOptions">Options</system:String>
+  <system:String x:Key="strMnuExit">Exit</system:String>
+  
+  <system:String x:Key="strLblInput">Input:</system:String>
+  <system:String x:Key="strBtnBrowse">Browse...</system:String>
+  <system:String x:Key="strLblProgress">Progress:</system:String>
+  <system:String x:Key="strBtnGo">Go!</system:String>
+
+
+  <!--OptionsWindow-->
+  <system:String x:Key="strLblOutputWidth">Output File Width (In Pixels)</system:String>
+  <system:String x:Key="strBtnOk">OK</system:String>
+
+  <system:String x:Key="strInvalidOutputWidthMessageboxHeader">Invalid Output Width</system:String>
+  <system:String x:Key="strInvalidOutputWidthMessageboxBody" xml:space="preserve">"Invalid Output Width.&#x0d;&#x0a;Output Width must be an integer, and must be greater than 1."</system:String>
+</ResourceDictionary>
